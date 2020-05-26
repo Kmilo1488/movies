@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "messages": "success",
+    "response": [
+        {
+            "id": 1,
+            "title": "Funny pets",
+            "overview": "Let's have fun with these funny pets...",
+            "release_date": "2000-05-30",
+            "created_at": "2020-05-26T04:38:52.622Z",
+            "updated_at": "2020-05-26T04:38:52.622Z"
+        },
+        {
+            "id": 2,
+            "title": "Funny pets 2",
+            "overview": "Let's have fun with these funny pets...",
+            "release_date": "2005-05-30",
+            "created_at": "2020-05-26T04:38:52.628Z",
+            "updated_at": "2020-05-26T04:38:52.628Z"
+        },
+        {
+            "id": 3,
+            "title": "Funny pets 3",
+            "overview": "Let's have fun with these funny pets...",
+            "release_date": "2010-05-30",
+            "created_at": "2020-05-26T04:38:52.634Z",
+            "updated_at": "2020-05-26T04:38:52.634Z"
+        },
+        {
+            "id": 4,
+            "title": "Funny pets 4",
+            "overview": "Let's have fun with these funny pets...",
+            "release_date": "2015-05-30",
+            "created_at": "2020-05-26T04:38:52.639Z",
+            "updated_at": "2020-05-26T04:38:52.639Z"
+        }
+    ]
+}
